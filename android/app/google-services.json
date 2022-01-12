@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857659889678",
+    "project_id": "gupshup-6f8f6",
+    "storage_bucket": "gupshup-6f8f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857659889678:android:191bd960f55ce1aa76c45f",
+        "android_client_info": {
+          "package_name": "com.example.gupshup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857659889678-em7ur8mktsn293t1pm64tiuq0g7bdrme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIihPazX_pa7gnZEdY7BBXS7tpmGLTRPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857659889678-em7ur8mktsn293t1pm64tiuq0g7bdrme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
